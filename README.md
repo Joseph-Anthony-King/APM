@@ -1,6 +1,6 @@
 # APM
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
+This is my version of the *ACME Product Management* app from the [Angular: Getting Started](https://www.pluralsight.com/courses/angular-2-getting-started-update) course from Deborah Kurata.
 
 ## Development server
 
